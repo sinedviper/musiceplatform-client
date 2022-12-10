@@ -1,4 +1,4 @@
-# Musiceplatform-client
+# Musiceplatform-Client
 
 ### :pushpin: About project
 <p align="justify">This project was written with the aim of the next framework, and writing a platform for music was chosen as an implementation, you can delete, change and add music, as well as change the author, you can also listen to music that was uploaded to the server.</p>
