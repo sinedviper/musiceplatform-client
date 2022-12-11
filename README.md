@@ -13,7 +13,7 @@
 - redux
 - redux-thunk
 - axios
-- 
+
 ---
 
 ### :pizza: Commands
